@@ -33,6 +33,7 @@ USER_CREDENTIALS = {
     "alex": "password123",
     "sam": "mysecret99",
     "venkat": "venkat123"
+}
     
 
 # --- 4. USER INTERFACE LOGIC ---
